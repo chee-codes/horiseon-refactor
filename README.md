@@ -4,12 +4,13 @@ Website refactoring for Horiseon, a web opitimization and content management com
 
 ## Getting Started
 
-**Cloning repository to local directory**
-    1. Open terminal(Mac) or Git Bash(PC)
-    2. Navigate to prefered directory.
-    3. Run git clone <url> (example@email.com).
-    4. Use finder(Mac) or file explorer(PC), and navigate to folder containing downloaded repository.
-    5. Open folder in code editor of choice.
+Cloning repository to local directory
+
+1. Open terminal(Mac) or Git Bash(PC)
+2. Navigate to prefered directory.
+3. Run git clone <url> |example@email.com|.
+4. Use finder(Mac) or file explorer(PC), and navigate to folder containing downloaded repository.
+5. Open folder in code editor of choice.
 
 ## Built With
 

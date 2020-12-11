@@ -8,7 +8,7 @@ Cloning repository to local directory
 
 1. Open terminal(Mac) or Git Bash(PC)
 2. Navigate to prefered directory.
-3. Run: **_git clone example@email.com_**.
+3. Run: **_git clone url_**.
 4. Use finder(Mac) or file explorer(PC), and navigate to folder containing downloaded repository.
 5. Open folder in code editor of choice.
 

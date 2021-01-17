@@ -1,4 +1,4 @@
-# horiseon-refactor-demo
+# horiseon-refactor
 
 Website refactoring for Horiseon, a web opitimization and content management company
 
@@ -14,19 +14,19 @@ Cloning repository to local directory
 
 ## Built With
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Deployed Link
 
-* [Link to live site](https://jbrown827.github.io/horiseon-refactor-demo/)
+- [Link to live site](https://jbrown827.github.io/horiseon-refactor-demo/)
 
 # Author
 
-* **Jaja Brown**
+- **Jaja Brown**
 
-    * [Link to Portfolio]()
-    * [Link to GitHub](https://github.com/jbrown827)
-    * [Link to LinkedIn](https://www.linkedin.com/in/jaja-brown-a42261201/)
+  - [Link to Portfolio]()
+  - [Link to GitHub](https://github.com/jbrown827)
+  - [Link to LinkedIn](https://www.linkedin.com/in/jaja-brown-a42261201/)
 
 ## Acknowdledgments
